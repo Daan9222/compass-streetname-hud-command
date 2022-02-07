@@ -6,4 +6,4 @@ I added 2 commands
 
 /streetnames - This will turn on the streetname hud (If you want to have it on by default change compass.show = false to compass.show = true)
 
-Credit: MsQuerade
+Credit: https://forum.cfx.re/u/MsQuerade
